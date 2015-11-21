@@ -13,6 +13,6 @@ Set following Env variables:
 
 ## Dependencies
 
-'''bash
+```bash
 go get github.com/phayes/hookserve
-'''
+```
